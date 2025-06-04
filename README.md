@@ -1,3 +1,3 @@
 # Pizza Sales SQL Project
 
-##📌 Project Overview
+## Project Overview
